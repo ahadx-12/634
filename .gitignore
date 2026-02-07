@@ -1,0 +1,35 @@
+# Virtual environments
+.venv/
+.venv*/
+venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# pytest
+.pytest_cache/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Data/Results (optional - remove if you want to include)
+# .data/
+# results/
